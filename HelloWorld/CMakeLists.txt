@@ -1,0 +1,1 @@
+add_library(HelloWorld MODULE hello_world.cpp)
